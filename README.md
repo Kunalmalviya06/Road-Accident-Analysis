@@ -2,13 +2,13 @@
 ![Dashboard Preview](Dashboard.jpg)
 ## Solution File
 
-You can access the solution file for this project [here](https://drive.google.com/drive/folders/1hh7-T1z6vgSy429HwF2vZ3Awgow-5X9Z?usp=sharing).
+You can access the solution file for this project https://drive.google.com/drive/folders/1hh7-T1z6vgSy429HwF2vZ3Awgow-5X9Z?usp=sharing 
 
 ---
 
 ## 1. Problem Statement
 
-Road traffic accidents are a major public safety issue, resulting in fatalities, injuries, and economic damage. Analyzing patterns and trends in road accidents is crucial to develop safety measures and reduce accidents. This project focuses on analyzing a comprehensive dataset to understand accident trends and suggest preventive measures to enhance road safety.
+Road traffic accidents are a major public safety issue, resulting in fatalities, injuries, and economic damage. Analyzing patterns and trends in road accidents is crucial to developing safety measures and reducing accidents. This project focuses on analyzing a comprehensive dataset to understand accident trends and suggest preventive measures to enhance road safety.
 
 ---
 
