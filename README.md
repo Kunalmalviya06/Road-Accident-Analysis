@@ -1,5 +1,5 @@
 # Road Accident Data Analysis Project
-![Dashboard Preview](dashboard.jpg)
+![Dashboard Preview](Dashboard.jpg)
 ## Solution File
 
 You can access the solution file for this project [here](https://drive.google.com/drive/folders/1hh7-T1z6vgSy429HwF2vZ3Awgow-5X9Z?usp=sharing).
