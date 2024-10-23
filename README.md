@@ -89,5 +89,3 @@ This road accident analysis reveals several key insights into the causes of acci
 - **Road Surface Conditions**: A majority of accidents occur on dry surfaces, showing that even under ideal conditions, road safety is a concern.
 - **Light Conditions**: Most accidents happen during daylight, indicating a need for greater awareness and safety measures during peak traffic hours.
 - **Geographical Impact**: Urban areas experience more accidents than rural areas, suggesting a need for stricter traffic control in cities.
-
-By focusing on these factors, authorities can implement better road safety measures, ultimately reducing casualties and improving overall road safety.
